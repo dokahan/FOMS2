@@ -1,0 +1,15 @@
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Release\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Release\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Release\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharp.PasswordDialog.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharp.RemoteDesktop.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharp.csproj.GenerateResource.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharp.csproj.CoreCompileInputs.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Release\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\bin\Release\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\bin\Release\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\bin\Release\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Release\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Release\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Release\VncSharpNG.pdb

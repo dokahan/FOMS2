@@ -1,0 +1,94 @@
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\FOMSSubmarine.exe
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\FOMSSubmarine.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.csprojAssemblyReference.cache
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.ResolveComReference.cache
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.CableSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.EmailSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.EquipmentsSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.EventAlarmWindow.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.SingleControllerForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.OTDRSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.MainWindow.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.GenerateResource.cache
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.exe
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.pdb
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.Properties.Resources.resources
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CoreCompileInputs.cache
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\FOMSSubmarine.exe.config
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\FOMSSubmarine.exe
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\FOMSSubmarine.pdb
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ProjectsE\LTSolution\LSCable&System\_FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CopyComplete
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\FOMSSubmarine.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.ResolveComReference.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.CableSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.EmailSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.EquipmentsSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.EventAlarmWindow.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.SingleControllerForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.OTDRSettingsForm.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.MainWindow.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.Properties.Resources.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.GenerateResource.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CoreCompileInputs.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CopyComplete
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.exe
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.AssemblyReference.cache
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.AssemblyReference.cache
+C:\FOMSSubmarine\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.ResolveComReference.cache
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.exe
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.pdb
+C:\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe.config
+C:\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe
+C:\FOMSSubmarine\bin\Debug\FOMSSubmarine.pdb
+C:\FOMSSubmarine\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.CableSettingsForm.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.EmailSettingsForm.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.EquipmentsSettingsForm.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.EventAlarmWindow.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.SingleControllerForm.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.OTDRSettingsForm.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.MainWindow.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.Properties.Resources.resources
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.GenerateResource.cache
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CoreCompileInputs.cache
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CopyComplete
+C:\FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+C:\FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+C:\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.SuggestedBindingRedirects.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe.config
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\FOMSSubmarine.exe
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\FOMSSubmarine.pdb
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csprojAssemblyReference.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.ResolveComReference.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.CableSettingsForm.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.EmailSettingsForm.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.EquipmentsSettingsForm.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.EventAlarmWindow.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.SingleControllerForm.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.OTDRSettingsForm.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.MainWindow.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.Properties.Resources.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.GenerateResource.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CoreCompileInputs.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.CopyComplete
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.exe
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.pdb
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.Form1.resources

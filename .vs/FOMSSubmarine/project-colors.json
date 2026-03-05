@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0695f0f-0faf-44bc-ae55-a1fcbfe70271": {
+      "ProjectGuid": "e0695f0f-0faf-44bc-ae55-a1fcbfe70271",
+      "DisplayName": "VncSharp",
+      "ColorIndex": 0
+    },
+    "e19cae50-eaca-454e-a3a2-bc9b67b61879": {
+      "ProjectGuid": "e19cae50-eaca-454e-a3a2-bc9b67b61879",
+      "DisplayName": "FOMSSubmarine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

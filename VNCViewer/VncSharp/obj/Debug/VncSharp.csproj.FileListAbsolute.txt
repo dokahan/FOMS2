@@ -1,0 +1,44 @@
+S:\Projects\VncSharpNG-master\VncSharp\bin\Debug\VncSharpNG.dll.config
+S:\Projects\VncSharpNG-master\VncSharp\bin\Debug\VncSharpNG.dll
+S:\Projects\VncSharpNG-master\VncSharp\bin\Debug\VncSharpNG.pdb
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharp.PasswordDialog.resources
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharp.RemoteDesktop.resources
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharp.csproj.GenerateResource.cache
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharpNG.dll
+S:\Projects\VncSharpNG-master\VncSharp\obj\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Debug\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Debug\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\bin\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\bin\Debug\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\bin\Debug\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\bin\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.PasswordDialog.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.RemoteDesktop.resources
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.GenerateResource.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.dll
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.pdb
+E:\ProjectsE\LTSolution\LSCable&System\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.AssemblyReference.cache
+C:\FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+C:\FOMSSubmarine\bin\Debug\VncSharpNG.dll
+C:\FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.AssemblyReference.cache
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.PasswordDialog.resources
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.RemoteDesktop.resources
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.GenerateResource.cache
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.dll
+C:\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.pdb
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\VncSharpNG.dll.config
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\VncSharpNG.dll
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\bin\Debug\VncSharpNG.pdb
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.PasswordDialog.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.RemoteDesktop.resources
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.GenerateResource.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.dll
+E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.pdb
