@@ -244,7 +244,7 @@ namespace FOMSSubmarine
 			emailServerPort = (uint)Utilities.GetAppRegistry("EmailServerPort", 25);
 			emailServerUseDefaultPort = Utilities.GetAppRegistry("EmailServerUseDefaultPort", true);
 			emailSendFrom = Utilities.GetAppRegistryString("EmailSendFrom", "foms.submarine@gmail.com");
-			emailSendTo = Utilities.GetAppRegistryString("EmailSendTo", "foms.qp.report@gmail.com");
+			emailSendTo = Utilities.GetAppRegistryString("EmailSendTo", "lscrdg2026@gmail.com");
 			emailSendTheme = Utilities.GetAppRegistryString("EmailSendTheme", "RLIC - FOMS #2");
 
 			str_Report_Subject = "Optical Fiber Measurement Daily Report"; //Subject of E-mail
@@ -261,9 +261,14 @@ namespace FOMSSubmarine
 
 		private void Form_Closed(object sender, FormClosedEventArgs e)
 		{
-			if (VNCViewer.IsConnected)
-				VNCViewer.Disconnect();
-
+			try
+			{
+				if (VNCViewer.IsConnected)
+					VNCViewer.Disconnect();
+				
+			}
+			catch {}
+			
 			if (accessDB != null)
 			{
 				accessDB.Close();
@@ -335,6 +340,10 @@ namespace FOMSSubmarine
 					{
 						try
 						{
+							if (VNCViewer.IsConnected)
+								VNCViewer.Disconnect();		
+								
+							VNCViewer.VncPort = 5900;
 							VNCViewer.Connect(ipAddress, viewOnly: false, scaled: true);
 						}
 						catch (VncProtocolException vex)

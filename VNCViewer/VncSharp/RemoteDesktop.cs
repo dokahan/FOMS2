@@ -557,6 +557,7 @@ namespace VncSharp
 		public void Disconnect()
 		{
 			InsureConnection(true);
+			if (vnc == null) return; // ✅ null 체크 추가
 			vnc.ConnectionLost -= new EventHandler(VncClientConnectionLost);
             vnc.ServerCutText -= new EventHandler(VncServerCutText);
 			vnc.Disconnect();
