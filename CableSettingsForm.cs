@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Windows.Forms;
 
 namespace FOMSSubmarine
@@ -81,7 +81,7 @@ namespace FOMSSubmarine
 		{
 			try
 			{
-				DialogResult RetMsg = MessageBox.Show("¼³Á¤À» ÀúÀåÇÏ½Ã°Ú½À´Ï±î?", "ÀúÀå È®ÀÎ", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+				DialogResult RetMsg = MessageBox.Show("ì„¤ì •ì„ ì €ì¥í•˜ì‹œê² ìŠµë‹ˆê¹Œ?", "ì €ì¥ í™•ì¸", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
 				if (RetMsg == DialogResult.Yes)
 				{

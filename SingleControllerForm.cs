@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Diagnostics;
 using System.Windows.Forms;
 
@@ -85,7 +85,7 @@ namespace FOMSSubmarine
 
 			if (succeed)
 			{
-				// ÃøÁ¤ ¿Ï·á ÈÄ trace data ÁØºñ µÇ¾ú´Ù¸é..
+				// ì¸¡ì • ì™„ë£Œ í›„ trace data ì¤€ë¹„ ë˜ì—ˆë‹¤ë©´..
 				Program.MainWindow.txt_Messages.SelectedText = "Measurement Complete!" + Environment.NewLine + Environment.NewLine;
 				MessageBox.Show("Measurement Complete!", Constants.InternalAppName);
 				completedMeasurement = true;
@@ -115,7 +115,7 @@ namespace FOMSSubmarine
 		}
 
 		//================================================================================================
-		// Key Pad µ¿ÀÛ
+		// Key Pad ë™ì‘
 		//================================================================================================
 
 		///Key Pad Number
@@ -147,7 +147,7 @@ namespace FOMSSubmarine
 		// Up/Down Button Control
 		//================================================================================================
 
-		/// [¡ã] Button Click!
+		/// [â–²] Button Click!
 		private void cbUp_Click(object sender, EventArgs eventArgs)
 		{
 			int.TryParse(txtChannel.Text, out int channel);
@@ -157,7 +157,7 @@ namespace FOMSSubmarine
 			}
 		}
 
-		/// [¡å] Button Click!
+		/// [â–¼] Button Click!
 		private void cbDown_Click(object sender, EventArgs eventArgs)
 		{ 
 			int.TryParse(txtChannel.Text, out int channel);

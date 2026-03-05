@@ -1,4 +1,4 @@
-// VncSharp - .NET VNC Client Library
+﻿// VncSharp - .NET VNC Client Library
 // Copyright (C) 2008 David Humphrey
 //
 // This program is free software; you can redistribute it and/or modify
@@ -640,7 +640,7 @@ namespace VncSharp
 			if (!DesignMode) {
 				switch(state) {
 					case RuntimeState.Connected:
-						// ✅ desktop null 체크 추가
+						// ??desktop null 泥댄겕 異붽?
 						if (desktop != null)
 							DrawDesktopImage(desktop, pe.Graphics);
 						break;
@@ -651,7 +651,7 @@ namespace VncSharp
 						}
 						break;
 					default:
-						// ✅ Connecting 등 중간 상태에서는 배경만 그리고 무시
+						// ??Connecting ??以묎컙 ?곹깭?먯꽌??諛곌꼍留?洹몃━怨?臾댁떆
 						using (var brush = new SolidBrush(BackColor))
 						{
 							pe.Graphics.FillRectangle(brush, DisplayRectangle);

@@ -1,4 +1,4 @@
-// VncSharp - .NET VNC Client Library
+﻿// VncSharp - .NET VNC Client Library
 // Copyright (C) 2008 David Humphrey
 //
 // This program is free software; you can redistribute it and/or modify

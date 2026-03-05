@@ -1,4 +1,4 @@
-
+Ôªø
 namespace FOMSSubmarine
 {
 	partial class MainWindow
@@ -94,14 +94,14 @@ namespace FOMSSubmarine
             this.m_CloseProgram});
             this.m_File.Name = "m_File";
             this.m_File.Size = new System.Drawing.Size(69, 20);
-            this.m_File.Text = "∆ƒ¿œ(&File)";
+            this.m_File.Text = "ÌååÏùº(&File)";
             // 
             // m_CloseProgram
             // 
             this.m_CloseProgram.Name = "m_CloseProgram";
             this.m_CloseProgram.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
             this.m_CloseProgram.Size = new System.Drawing.Size(182, 22);
-            this.m_CloseProgram.Text = "≥°≥ª±‚ (&Exit)";
+            this.m_CloseProgram.Text = "ÎÅùÎÇ¥Í∏∞ (&Exit)";
             this.m_CloseProgram.Click += new System.EventHandler(this.m_CloseProgram_Click);
             // 
             // m_Setting
@@ -113,14 +113,14 @@ namespace FOMSSubmarine
             this.m_EmailSettings});
             this.m_Setting.Name = "m_Setting";
             this.m_Setting.Size = new System.Drawing.Size(89, 20);
-            this.m_Setting.Text = "ºº∆√(&Setting)";
+            this.m_Setting.Text = "ÏÑ∏ÌåÖ(&Setting)";
             // 
             // m_CableInfoSet
             // 
             this.m_CableInfoSet.Name = "m_CableInfoSet";
             this.m_CableInfoSet.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.I)));
             this.m_CableInfoSet.Size = new System.Drawing.Size(381, 22);
-            this.m_CableInfoSet.Text = "ƒ…¿Ã∫Ì ¡§∫∏ ºº∆√ (&Cable Information Settings)";
+            this.m_CableInfoSet.Text = "ÏºÄÏù¥Î∏î Ï†ïÎ≥¥ ÏÑ∏ÌåÖ (&Cable Information Settings)";
             this.m_CableInfoSet.Click += new System.EventHandler(this.m_CableInfoSet_Click);
             // 
             // m_OTDRParamSet
@@ -128,7 +128,7 @@ namespace FOMSSubmarine
             this.m_OTDRParamSet.Name = "m_OTDRParamSet";
             this.m_OTDRParamSet.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
             this.m_OTDRParamSet.Size = new System.Drawing.Size(381, 22);
-            this.m_OTDRParamSet.Text = "OTDR ∆ƒ∂ÛπÃ≈Õ ºº∆√ (&OTDR Parameters Settings)";
+            this.m_OTDRParamSet.Text = "OTDR ÌååÎùºÎØ∏ÌÑ∞ ÏÑ∏ÌåÖ (&OTDR Parameters Settings)";
             this.m_OTDRParamSet.Click += new System.EventHandler(this.m_OTDRParamSet_Click);
             // 
             // m_EquipmentsSettings
@@ -136,7 +136,7 @@ namespace FOMSSubmarine
             this.m_EquipmentsSettings.Name = "m_EquipmentsSettings";
             this.m_EquipmentsSettings.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
             this.m_EquipmentsSettings.Size = new System.Drawing.Size(381, 22);
-            this.m_EquipmentsSettings.Text = "¿Â∫Ò º≥¡§ (&Equipments Settings)";
+            this.m_EquipmentsSettings.Text = "Ïû•ÎπÑ ÏÑ§Ï†ï (&Equipments Settings)";
             this.m_EquipmentsSettings.Click += new System.EventHandler(this.m_EquipmentsSettings_Click);
             // 
             // m_EmailSettings
@@ -144,7 +144,7 @@ namespace FOMSSubmarine
             this.m_EmailSettings.Name = "m_EmailSettings";
             this.m_EmailSettings.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.M)));
             this.m_EmailSettings.Size = new System.Drawing.Size(381, 22);
-            this.m_EmailSettings.Text = "Email º≥¡§ (&Email Settings)";
+            this.m_EmailSettings.Text = "Email ÏÑ§Ï†ï (&Email Settings)";
             this.m_EmailSettings.Click += new System.EventHandler(this.m_EmailSettings_Click);
             // 
             // m_Tool
@@ -153,14 +153,14 @@ namespace FOMSSubmarine
             this.m_SingleCtrl});
             this.m_Tool.Name = "m_Tool";
             this.m_Tool.Size = new System.Drawing.Size(74, 20);
-            this.m_Tool.Text = "µµ±∏(&Tool)";
+            this.m_Tool.Text = "ÎèÑÍµ¨(&Tool)";
             // 
             // m_SingleCtrl
             // 
             this.m_SingleCtrl.Name = "m_SingleCtrl";
             this.m_SingleCtrl.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
             this.m_SingleCtrl.Size = new System.Drawing.Size(281, 22);
-            this.m_SingleCtrl.Text = "∞≥∫∞ √¯¡§±‚ (&Single Controller)";
+            this.m_SingleCtrl.Text = "Í∞úÎ≥Ñ Ï∏°Ï†ïÍ∏∞ (&Single Controller)";
             this.m_SingleCtrl.Click += new System.EventHandler(this.m_SingleCtrl_Click);
             // 
             // Frame1

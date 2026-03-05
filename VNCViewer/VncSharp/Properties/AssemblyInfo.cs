@@ -1,4 +1,4 @@
-using System.Reflection;
+ï»¿using System.Reflection;
 using System.Runtime.CompilerServices;
 
 [assembly: AssemblyTitle("VncSharpNG")]
@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("VncSharpNG")]
-[assembly: AssemblyCopyright("Copyright © 2004-2013 David Humphrey, Riley McArdle")]
+[assembly: AssemblyCopyright("Copyright ?2004-2013 David Humphrey, Riley McArdle")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

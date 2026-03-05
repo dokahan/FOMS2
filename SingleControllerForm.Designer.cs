@@ -1,4 +1,4 @@
-
+ï»¿
 namespace FOMSSubmarine
 {
 	partial class SingleControllerForm
@@ -129,7 +129,7 @@ namespace FOMSSubmarine
 			this.cbDown.RightToLeft = System.Windows.Forms.RightToLeft.No;
 			this.cbDown.Size = new System.Drawing.Size(49, 70);
 			this.cbDown.TabIndex = 16;
-			this.cbDown.Text = "¡å";
+			this.cbDown.Text = "â–¼";
 			this.cbDown.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
 			this.cbDown.UseVisualStyleBackColor = false;
 			this.cbDown.Click += new System.EventHandler(this.cbDown_Click);
@@ -338,7 +338,7 @@ namespace FOMSSubmarine
 			this.cbUp.RightToLeft = System.Windows.Forms.RightToLeft.No;
 			this.cbUp.Size = new System.Drawing.Size(49, 70);
 			this.cbUp.TabIndex = 3;
-			this.cbUp.Text = "¡ã";
+			this.cbUp.Text = "â–²";
 			this.cbUp.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
 			this.cbUp.UseVisualStyleBackColor = false;
 			this.cbUp.Click += new System.EventHandler(this.cbUp_Click);

@@ -1,4 +1,4 @@
-// VncSharp - .NET VNC Client Library
+ï»¿// VncSharp - .NET VNC Client Library
 // Copyright (C) 2008 David Humphrey
 //
 // This program is free software; you can redistribute it and/or modify
@@ -310,7 +310,7 @@ namespace VncSharp
 		{
 			// Start getting updates on background thread.
 			worker = new Thread(new ThreadStart(this.GetRfbUpdates));
-            // Bug Fix (Grégoire Pailler) for clipboard and threading
+            // Bug Fix (Gr?oire Pailler) for clipboard and threading
             worker.SetApartmentState(ApartmentState.STA);
             worker.IsBackground = true;
 			done = new ManualResetEvent(false);

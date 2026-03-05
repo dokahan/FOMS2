@@ -1,4 +1,4 @@
-
+﻿
 namespace FOMSSubmarine
 {
 	partial class OTDRSettingsForm

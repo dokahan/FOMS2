@@ -1,10 +1,10 @@
-
+ï»¿
 namespace FOMSSubmarine
 {
 	internal static class GlobalVariables
 	{
 		//******************** Loss Calculation Parameters ***********************************************
-		public static int Save_Button_On = 0;		// Single Ctrl½Ã¿¡ SOR ÆÄÀÏ ÀúÀå ¹æ¹ı °áÁ¤À» À§ÇÔ
+		public static int Save_Button_On = 0;		// Single Ctrlì‹œì— SOR íŒŒì¼ ì €ì¥ ë°©ë²• ê²°ì •ì„ ìœ„í•¨
 		//************************************************************************************************
 
 		//******************** Loss Calculation Parameters ***********************************************
@@ -35,10 +35,10 @@ namespace FOMSSubmarine
 		public static float Range = 100.0f;			// Measure Range
 		public static int Resolution = 1;			// High
 		public static int PulseWidth = 4000;
-		public static int AverageTime = 60;			// avg time -> 60 / 180 Ãß°¡ ÇÊ¿ä -> Áøµµ = Á¦ÁÖ ¹öÁ¯ 
+		public static int AverageTime = 60;			// avg time -> 60 / 180 ì¶”ê°€ í•„ìš” -> ì§„ë„ = ì œì£¼ ë²„ì ¼ 
 		public static double IOR = 1.466700;
 		public static double BSC = -81.50;
-		public static int Data_Size = 0;			// SOR DataÀÇ »çÀÌÁî
+		public static int Data_Size = 0;			// SOR Dataì˜ ì‚¬ì´ì¦ˆ
 		//************************************************************************************************
 
 		//******************** Test Variables ************************************************************
