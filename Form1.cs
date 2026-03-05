@@ -25,7 +25,7 @@ namespace FOMSSubmarine
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            WebBrowser.Navigate(new Uri("http://daum.net"));    // OTDR Access Master
+            WebBrowser.Navigate(new Uri("http://www.google.com"));    // OTDR Access Master
 
         }
 

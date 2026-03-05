@@ -92,3 +92,23 @@ E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.csproj.Cop
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.exe
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.pdb
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\obj\Debug\FOMSSubmarine.Form1.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.csproj.AssemblyReference.cache
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.CableSettingsForm.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.EmailSettingsForm.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.EquipmentsSettingsForm.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.EventAlarmWindow.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.Form1.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.SingleControllerForm.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.OTDRSettingsForm.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.MainWindow.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.Properties.Resources.resources
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.csproj.GenerateResource.cache
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.csproj.CoreCompileInputs.cache
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.exe
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubmarine.pdb
+D:\FOMS2\FOMS2\bin\Debug\FOMSSubmarine.exe.config
+D:\FOMS2\FOMS2\bin\Debug\FOMSSubmarine.exe
+D:\FOMS2\FOMS2\bin\Debug\FOMSSubmarine.pdb
+D:\FOMS2\FOMS2\bin\Debug\VncSharpNG.pdb
+D:\FOMS2\FOMS2\bin\Debug\VncSharpNG.dll.config
+D:\FOMS2\FOMS2\obj\Debug\FOMSSubm.7C9ED4CB.Up2Date

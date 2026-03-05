@@ -608,14 +608,41 @@ namespace VncSharp
                 base.WndProc(ref m);
         }
 
+		// protected override void OnPaint(PaintEventArgs pe)
+		// {
+		// 	// If the control is in design mode, draw a nice background, otherwise paint the desktop.
+		// 	if (!DesignMode) {
+		// 		switch(state) {
+		// 			case RuntimeState.Connected:
+		// 				System.Diagnostics.Debug.Assert(desktop != null);
+		// 				DrawDesktopImage(desktop, pe.Graphics);
+		// 				break;
+		// 			case RuntimeState.Disconnected:
+		// 				using (var brush = new SolidBrush(BackColor))
+		// 				{
+		// 					pe.Graphics.FillRectangle(brush, DisplayRectangle);
+		// 				}
+		// 				break;
+		// 			default:
+		// 				// Sanity check
+		// 				throw new NotImplementedException(string.Format("RemoteDesktop in unknown State: {0}.", state.ToString()));
+		// 		}
+        //     } else {
+		// 		// Draw a static screenshot of a Windows desktop to simulate the control in action
+		// 		System.Diagnostics.Debug.Assert(designModeDesktop != null);
+		// 		DrawDesktopImage(designModeDesktop, pe.Graphics);
+		// 	}
+		// 	base.OnPaint(pe);
+		// }
+
 		protected override void OnPaint(PaintEventArgs pe)
 		{
-			// If the control is in design mode, draw a nice background, otherwise paint the desktop.
 			if (!DesignMode) {
 				switch(state) {
 					case RuntimeState.Connected:
-						System.Diagnostics.Debug.Assert(desktop != null);
-						DrawDesktopImage(desktop, pe.Graphics);
+						// ✅ desktop null 체크 추가
+						if (desktop != null)
+							DrawDesktopImage(desktop, pe.Graphics);
 						break;
 					case RuntimeState.Disconnected:
 						using (var brush = new SolidBrush(BackColor))
@@ -624,17 +651,20 @@ namespace VncSharp
 						}
 						break;
 					default:
-						// Sanity check
-						throw new NotImplementedException(string.Format("RemoteDesktop in unknown State: {0}.", state.ToString()));
+						// ✅ Connecting 등 중간 상태에서는 배경만 그리고 무시
+						using (var brush = new SolidBrush(BackColor))
+						{
+							pe.Graphics.FillRectangle(brush, DisplayRectangle);
+						}
+						break;
 				}
-            } else {
+			} else {
 				// Draw a static screenshot of a Windows desktop to simulate the control in action
 				System.Diagnostics.Debug.Assert(designModeDesktop != null);
 				DrawDesktopImage(designModeDesktop, pe.Graphics);
 			}
 			base.OnPaint(pe);
-		}
-
+		}				
 		protected override void OnResize(EventArgs eventargs)
         {
             // Fix a bug with a ghost scrollbar in clipped mode on maximize

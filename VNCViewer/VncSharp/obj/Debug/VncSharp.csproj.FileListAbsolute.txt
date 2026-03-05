@@ -42,3 +42,13 @@ E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSh
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.dll
 E:\1 다운로드\0 소스\FOMS\FOMSSubmarine\VNCViewer\VncSharp\obj\Debug\VncSharpNG.pdb
+D:\FOMS2\FOMS2\bin\Debug\VncSharpNG.dll.config
+D:\FOMS2\FOMS2\bin\Debug\VncSharpNG.dll
+D:\FOMS2\FOMS2\bin\Debug\VncSharpNG.pdb
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.AssemblyReference.cache
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharp.PasswordDialog.resources
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharp.RemoteDesktop.resources
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.GenerateResource.cache
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharp.csproj.CoreCompileInputs.cache
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharpNG.dll
+D:\FOMS2\FOMS2\VNCViewer\VncSharp\obj\Debug\VncSharpNG.pdb
